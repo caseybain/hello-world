@@ -13,3 +13,5 @@ Six Degrees of Bacon
 
 [Bacon]:http://blog.estately.com/assets/kevin-bacon-art-jason-mecier.jpg
 
+[![Stories in Ready](https://badge.waffle.io/caseybain/hello-world.png?label=ready&title=Ready)](http://waffle.io/caseybain/hello-world)
+
