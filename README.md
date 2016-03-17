@@ -7,7 +7,7 @@ All your base are belong to us.
 
 Compliments of [Bacon Ipsum](https://baconipsum.com/)
 
-Six Degrees of Bacon
+Six Degrees of [Bacon](https://www.youtube.com/watch?v=gRj3zAqMaRE)
 
 ![Six Degrees of Bacon][Bacon]
 
